@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "GMeet Auto Lookup",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Partecipa ad una riunione Google Meet non appena un insegnante si collega.", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
