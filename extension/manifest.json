@@ -2,7 +2,7 @@
   "name": "__MSG_appName__",
   "description": "__MSG_appDesc__",
   "default_locale": "it",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Piervito Creanza",
   "icons": {
     "16": "./src/images/logo_16.png",
